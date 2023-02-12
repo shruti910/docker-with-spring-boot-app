@@ -1,6 +1,8 @@
-# Spring Boot Hello World
+# Spring Boot App with Docker as containerization tool
 
 **A simple Spring Boot app to display hello world message**
+
+This Repository is used in my docker tutorial blog here : https://medium.com/@techshrutiprajapati/quick-guide-to-dockerize-a-spring-boot-application-on-windows-4c4e8785cae5
 
 ## How to Run Application
 
