@@ -2,8 +2,8 @@
 
 **A simple Spring Boot app to display hello world message**
 
-This Repository is used in my docker tutorial blog here :
-https://medium.com/@techshrutiprajapati/quick-guide-to-dockerize-a-spring-boot-application-on-windows-4c4e8785cae5
+This Repository is used in my docker tutorial blogs here :
+https://medium.com/@techshrutiprajapati/quick-guide-to-dockerize-a-spring-boot-application-on-windows-4c4e8785cae5 and
 https://medium.com/@techshrutiprajapati/deploy-a-java-spring-boot-application-to-azure-kubernetes-service-with-acr-902c6e994eff
 
 ## How to Run Application
